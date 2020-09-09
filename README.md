@@ -10,7 +10,7 @@ Also very interested in the trading aspect of it, and the stock market in genera
 I love to code, although I am fairly new to it; I am also fairly familiar with it. I grew up during the time of IRC scripting languages, bot wars, BNet illys (a star for whoever is on that reference).
 I am learning CSS, Javascript, Java, Solidity, and HTML. The projects I envision contain elements of all of these languages living as entities on the Ethereum blockchain, which are interactive through websites or dApps, hosted by crypto domains which provides hosting for the front end element while also providing a direct wallet address that is human readable. At the current time, I hold 2 Blockchain domains. 1 is my first project I am beginning development of, currently TOP SECRET. I will provide updates to the in the near future, and hopefully it will grand and revolutionary, not swept under the rug. But in either event, I will have pushed my knowledge of coding further. I have spent all of my time lately doing these things, and probably will be for at least the foreseeable near future. I work manual labor jobs here and there, when I can find them.. but during these coronavirus times work and stable income has been scarce. Hopefully I can change that for myself with my knowledge.
   <br>
-  If you like what I am am doing, <link a=href:"mailto:CRyPToKiNGPiN@icloud.com"><b>Contact me.</b></link>
+  If you like what I am am doing, <a=href:"mailto:CRyPToKiNGPiN@icloud.com"><b>Contact me.</b></a>
   Donations of BTC/ETH also go a long way. Support crypto development by sending funds to wallet address:
   <b><u>legalized.crypto</b></u>
   <br>
